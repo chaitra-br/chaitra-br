@@ -17,8 +17,9 @@ I build clean, responsive, and user-focused web interfaces.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitra-br&show_icons=true&theme=default&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitra-br&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitra-br&layout=compact&theme=default&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitra-br&layout=compact&theme=default&hide_border=true)
+
 
 
